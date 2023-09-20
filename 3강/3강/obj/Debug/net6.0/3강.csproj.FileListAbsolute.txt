@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.AssemblyInfo.cs
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\bin\Debug\net6.0\3강.exe
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\bin\Debug\net6.0\3강.deps.json
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\bin\Debug\net6.0\3강.runtimeconfig.json
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\bin\Debug\net6.0\3강.dll
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\bin\Debug\net6.0\3강.pdb
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.dll
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\refint\3강.dll
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.pdb
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\3강.genruntimeconfig.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\3강\3강\obj\Debug\net6.0\ref\3강.dll
