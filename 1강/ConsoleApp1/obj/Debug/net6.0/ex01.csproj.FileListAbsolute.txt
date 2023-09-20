@@ -1,0 +1,30 @@
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.exe
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.deps.json
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.pdb
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ex01.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.pdb
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ex01.dll
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.exe
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.deps.json
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.runtimeconfig.json
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.dll
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ex01.pdb
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.dll
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ex01.dll
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.pdb
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+C:\Users\베성윤\Documents\Assignment\2학년 1학기\C#프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ex01.dll
