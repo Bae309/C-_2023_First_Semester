@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\bin\Debug\net6.0\ex78.exe
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\bin\Debug\net6.0\ex78.deps.json
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\bin\Debug\net6.0\ex78.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\bin\Debug\net6.0\ex78.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\bin\Debug\net6.0\ex78.pdb
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\refint\ex78.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.pdb
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ex78.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\ex78\ex78\obj\Debug\net6.0\ref\ex78.dll

@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\bin\Debug\net6.0\unsighed.exe
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\bin\Debug\net6.0\unsighed.deps.json
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\bin\Debug\net6.0\unsighed.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\bin\Debug\net6.0\unsighed.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\bin\Debug\net6.0\unsighed.pdb
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\refint\unsighed.dll
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.pdb
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\unsighed.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#02분반\unsighed\unsighed\obj\Debug\net6.0\ref\unsighed.dll
