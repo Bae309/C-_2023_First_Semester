@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\bin\Debug\net6.0\p116.exe
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\bin\Debug\net6.0\p116.deps.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\bin\Debug\net6.0\p116.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\bin\Debug\net6.0\p116.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\bin\Debug\net6.0\p116.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\refint\p116.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\p116.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p116\p116\obj\Debug\net6.0\ref\p116.dll
