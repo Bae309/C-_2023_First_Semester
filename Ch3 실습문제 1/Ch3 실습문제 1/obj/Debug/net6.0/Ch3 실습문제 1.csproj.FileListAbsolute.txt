@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\bin\Debug\net6.0\Ch3 실습문제 1.exe
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\bin\Debug\net6.0\Ch3 실습문제 1.deps.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\bin\Debug\net6.0\Ch3 실습문제 1.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\bin\Debug\net6.0\Ch3 실습문제 1.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\bin\Debug\net6.0\Ch3 실습문제 1.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\refint\Ch3 실습문제 1.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\Ch3 실습문제 1.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 실습문제 1\Ch3 실습문제 1\obj\Debug\net6.0\ref\Ch3 실습문제 1.dll
