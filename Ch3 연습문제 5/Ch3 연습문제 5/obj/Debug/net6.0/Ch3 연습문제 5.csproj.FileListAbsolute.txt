@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\bin\Debug\net6.0\Ch3 연습문제 5.exe
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\bin\Debug\net6.0\Ch3 연습문제 5.deps.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\bin\Debug\net6.0\Ch3 연습문제 5.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\bin\Debug\net6.0\Ch3 연습문제 5.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\bin\Debug\net6.0\Ch3 연습문제 5.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\refint\Ch3 연습문제 5.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\Ch3 연습문제 5.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\Ch3 연습문제 5\Ch3 연습문제 5\obj\Debug\net6.0\ref\Ch3 연습문제 5.dll
