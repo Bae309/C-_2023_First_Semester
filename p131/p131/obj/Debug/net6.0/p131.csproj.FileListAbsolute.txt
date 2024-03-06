@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\bin\Debug\net6.0\p131.exe
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\bin\Debug\net6.0\p131.deps.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\bin\Debug\net6.0\p131.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\bin\Debug\net6.0\p131.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\bin\Debug\net6.0\p131.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\refint\p131.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\p131.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p131\p131\obj\Debug\net6.0\ref\p131.dll

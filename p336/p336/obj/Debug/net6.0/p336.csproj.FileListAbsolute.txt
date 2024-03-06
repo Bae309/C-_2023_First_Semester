@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\bin\Debug\net6.0\p336.exe
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\bin\Debug\net6.0\p336.deps.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\bin\Debug\net6.0\p336.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\bin\Debug\net6.0\p336.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\bin\Debug\net6.0\p336.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\refint\p336.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\p336.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p336\p336\obj\Debug\net6.0\ref\p336.dll
