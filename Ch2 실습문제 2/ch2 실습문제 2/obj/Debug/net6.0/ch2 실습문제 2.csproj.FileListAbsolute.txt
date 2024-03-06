@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\bin\Debug\net6.0\ch2 실습문제 2.exe
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\bin\Debug\net6.0\ch2 실습문제 2.deps.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\bin\Debug\net6.0\ch2 실습문제 2.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\bin\Debug\net6.0\ch2 실습문제 2.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\bin\Debug\net6.0\ch2 실습문제 2.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\refint\ch2 실습문제 2.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ch2 실습문제 2.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\ch2 실습문제 2\ch2 실습문제 2\obj\Debug\net6.0\ref\ch2 실습문제 2.dll
