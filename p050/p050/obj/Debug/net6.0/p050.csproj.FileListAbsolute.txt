@@ -1,0 +1,15 @@
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\bin\Debug\net6.0\p050.exe
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\bin\Debug\net6.0\p050.deps.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\bin\Debug\net6.0\p050.runtimeconfig.json
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\bin\Debug\net6.0\p050.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\bin\Debug\net6.0\p050.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.csproj.AssemblyReference.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.AssemblyInfoInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.AssemblyInfo.cs
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.csproj.CoreCompileInputs.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\refint\p050.dll
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.pdb
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\p050.genruntimeconfig.cache
+C:\Users\베성윤\Documents\C#언어\C#프로그래밍\p050\p050\obj\Debug\net6.0\ref\p050.dll
